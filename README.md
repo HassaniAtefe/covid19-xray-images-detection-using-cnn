@@ -12,5 +12,5 @@ https://data.mendeley.com/datasets/2fxz4px6d8
 ```
 
 ## Model
-
+![CNN](https://github.com/HassaniAtefe/covid19-xray-images-detection-using-cnn/blob/main/cnn_model.png)
 
